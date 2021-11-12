@@ -40,4 +40,4 @@ async def on_message(message):
             return
 
 #client = MyClient()
-Client.run(os.environ['TOKEN'])
+Client.run(os.environ['OTA4NDI1NjM5Nzg5NDg2MDgx.YY1jTg.5YWU2u8PG-RUJpXsqOiA8_UXrJQ'])
